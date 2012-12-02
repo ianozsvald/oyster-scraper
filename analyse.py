@@ -3,15 +3,51 @@
 
 """
 Analyse a JSON file of Oyster data
+
+Usage:
+$ python analyse.py -f 0514xxxxxxxx.json
+
+Input:
+A JSON file with contents like:
+[
+    {u'balance': 29.46,
+    u'date': u'30/11/12',
+    u'datetime': u'2012-11-30T08:39:00',
+    u'fare': 2.7,
+    u'location': u'Archway to Old Street',
+    u'time': u'08:39-09:01'},
+...]
+
+TODO:
+* Switch to Pandas and slice more interestingly
+
+Install note:
+On Ubuntu 12.04 with a virtualbox to get matplotlib working I had to install:
+* libfreetype6-dev
+* libpng12-dev
+* libjpeg8-dev (I added this opportunistically, might not be needed)
+* tk8.5-dev (for matplotlib to have a TkAgg backend during compile time else it
+* is Agg only which can't open a window)
+
+Try:
+import matplotlib
+matplotlib.get_backend() -> 'Agg' if it didn't find TkAgg during compile time
+and it finds 'TkAgg' if it is installed correctly
+
+BE WARNED
+THE FOLLOWING CODE IS HACKY FROM 1 EVENING'S HACK!
 """
 
 import argparse
 import json
+import dateutil.parser
+import datetime
 import math
 from collections import Counter
 from collections import defaultdict
 from pprint import pprint
 import dateutil.parser as dtparse
+import pylab
 # Journey types ('location' field):
 # "Old Street to Finsbury Park" - tube journey
 # "Bus journey, route 17" - bus journey
@@ -68,3 +104,26 @@ print "Most frequent journey:", most_frequent_journey_location
 a_to_os = journey_lengths[most_frequent_journey_location]
 print "Average commute time:", average(a_to_os)
 print "Standard deviation on commute time:", std_dev(a_to_os)
+
+time_length = []
+for entry in oyster:
+    location = entry['location']
+    if tube_journey(location):
+        timespan = entry['time'].split('-')
+        dt1 = dtparse.parse(timespan[0])
+        dt2 = dtparse.parse(timespan[1])
+        minutes = (dt2 - dt1).seconds / 60.0
+        dt_str = entry['datetime']
+        dt = dateutil.parser.parse(dt_str)
+        if location == most_frequent_journey_location:
+            time_only = datetime.time(dt.hour, dt.minute)
+            time_length.append((time_only, minutes))
+
+# sort from earliest commute time to latest
+time_length.sort()
+time_length2 = []
+for time, length in time_length:
+    mins = (60 * time.hour + time.minute)
+    time_length2.append((mins, length))
+time, length = zip(*time_length2) # unzip time and length
+#pylab.plot(time, length, 'x')

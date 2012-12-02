@@ -23,6 +23,8 @@ Generates a JSON output file with a list of entries like:
 
 TODO
 * fix datetime to save in UTC
+* what happens with journeys starting before midnight and ending after?
+* convert 'time' field into a datetime object
 """
 
 import argparse
