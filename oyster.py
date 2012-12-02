@@ -25,6 +25,7 @@ TODO
 * fix datetime to save in UTC
 """
 
+import argparse
 import urllib
 import urllib2
 from datetime import datetime
@@ -33,7 +34,6 @@ import json
 from BeautifulSoup import BeautifulSoup
 __version__ = '0.1'
 
-import argparse
 
 
 def download_data(card):
@@ -192,6 +192,7 @@ def get_oyster_journeys(card):
     page = download_data(card)
     all_journeys = parse_page(page)
     filename = "%s.json" % (card['id'])
+    print "Writing %d lines of Oyster data to %s" % (len(all_journeys), filename)
     json.dump(all_journeys, open(filename, 'w'), default=json_handler)
 
 
