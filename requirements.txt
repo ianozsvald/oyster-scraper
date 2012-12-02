@@ -1,0 +1,9 @@
+BeautifulSoup==3.2.1
+argparse==1.2.1
+configobj==4.7.2
+distribute==0.6.24
+ipdb==0.7
+ipython==0.13.1
+python-dateutil==2.1
+six==1.2.0
+wsgiref==0.1.2
