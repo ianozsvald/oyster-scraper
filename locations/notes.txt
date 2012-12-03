@@ -1,0 +1,11 @@
+GPX file retrieved from:
+http://smccarter.com/tubes.htm
+
+Nice maps look to be available here:
+https://commons.wikimedia.org/wiki/London_Underground_geographic_maps
+
+GPS parser to evaluate:
+https://github.com/tkrajina/gpxpy
+
+Possible meta-data:
+https://wiki.openstreetmap.org/wiki/London_Underground_Stations

@@ -1,0 +1,2252 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1">
+
+ <wpt lat="51.5821816" lon="-0.0749597">
+  <name>7SSTRS</name>
+  <desc>SEVEN SISTERS</desc>
+  <cmt>SEVEN SISTERS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5028066" lon="-0.2799861">
+  <name>ACTON</name>
+  <desc>ACTON TOWN</desc>
+  <cmt>ACTON TOWN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.514156" lon="-0.0756944">
+  <name>ALDGT</name>
+  <desc>ALDGATE</desc>
+  <cmt>ALDGATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5154446" lon="-0.0725701">
+  <name>ALDGTE</name>
+  <desc>ALDGATE EAST</desc>
+  <cmt>ALDGATE EAST</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5407368" lon="-0.2997109">
+  <name>ALPRTN</name>
+  <desc>ALPERTON</desc>
+  <cmt>ALPERTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6739558" lon="-0.6067719">
+  <name>AMRSHM</name>
+  <desc>AMERSHAM</desc>
+  <cmt>AMERSHAM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5328682" lon="-0.1059917">
+  <name>ANGEL</name>
+  <desc>ANGEL</desc>
+  <cmt>ANGEL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5653862" lon="-0.1352295">
+  <name>ARCHWY</name>
+  <desc>ARCHWAY</desc>
+  <cmt>ARCHWAY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6164203" lon="-0.1330659">
+  <name>ARNSGV</name>
+  <desc>ARNOS GROVE</desc>
+  <cmt>ARNOS GROVE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5585481" lon="-0.1058051">
+  <name>ARSNAL</name>
+  <desc>ARSENAL</desc>
+  <cmt>ARSENAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5225595" lon="-0.1571753">
+  <name>BAKRST</name>
+  <desc>BAKER STREET</desc>
+  <cmt>BAKER STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4431172" lon="-0.1525326">
+  <name>BALHAM</name>
+  <desc>BALHAM</desc>
+  <cmt>BALHAM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5132891" lon="-0.0886731">
+  <name>BANK</name>
+  <desc>BANK</desc>
+  <cmt>BANK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5403498" lon="0.1270021">
+  <name>BCNTRE</name>
+  <desc>BECONTREE</desc>
+  <cmt>BECONTREE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6266892" lon="0.0471498">
+  <name>BKHSHL</name>
+  <desc>BUCKHURST HILL</desc>
+  <cmt>BUCKHURST HILL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5867025" lon="-0.0416824">
+  <name>BKHSRD</name>
+  <desc>BLACKHORSE ROAD</desc>
+  <cmt>BLACKHORSE ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5119933" lon="-0.103024">
+  <name>BLKFRS</name>
+  <desc>BLACKFRIARS</desc>
+  <cmt>BLACKFRIARS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5503925" lon="-0.1641136">
+  <name>BLSZPK</name>
+  <desc>BELSIZE PARK</desc>
+  <cmt>BELSIZE PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6071878" lon="-0.1242165">
+  <name>BNDSGR</name>
+  <desc>BOUNDS GREEN</desc>
+  <cmt>BOUNDS GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.514139" lon="-0.1495306">
+  <name>BONDST</name>
+  <desc>BOND STREET</desc>
+  <cmt>BOND STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5011136" lon="-0.0942399">
+  <name>BOROGH</name>
+  <desc>BOROUGH</desc>
+  <cmt>BOROUGH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5269405" lon="-0.024654">
+  <name>BOWRD</name>
+  <desc>BOW ROAD</desc>
+  <cmt>BOW ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5204724" lon="-0.0979726">
+  <name>BRBICN</name>
+  <desc>BARBICAN</desc>
+  <cmt>BARBICAN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5767299" lon="-0.2135217">
+  <name>BRENTX</name>
+  <desc>BRENT CROSS</desc>
+  <cmt>BRENT CROSS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.585707" lon="0.0886135">
+  <name>BRKGSD</name>
+  <desc>BARKINGSIDE</desc>
+  <cmt>BARKINGSIDE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5396254" lon="0.0811529">
+  <name>BRKING</name>
+  <desc>BARKING</desc>
+  <cmt>BARKING</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5247537" lon="-0.0117886">
+  <name>BRMBYB</name>
+  <desc><![CDATA[BROMLEY-BY-BOW]]></desc>
+  <cmt><![CDATA[BROMLEY-BY-BOW]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4979882" lon="-0.0637402">
+  <name>BRMDSY</name>
+  <desc>BERMONDSEY</desc>
+  <cmt>BERMONDSEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4905771" lon="-0.2138383">
+  <name>BRNSCT</name>
+  <desc>BARONS COURT</desc>
+  <cmt>BARONS COURT</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6028011" lon="-0.264007">
+  <name>BRNTOK</name>
+  <desc>BURNT OAK</desc>
+  <cmt>BURNT OAK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4627741" lon="-0.114611">
+  <name>BRXTON</name>
+  <desc>BRIXTON</desc>
+  <cmt>BRIXTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4956695" lon="-0.324929">
+  <name>BSTNMN</name>
+  <desc>BOSTON MANOR</desc>
+  <cmt>BOSTON MANOR</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5269695" lon="-0.0549133">
+  <name>BTHNLG</name>
+  <desc>BETHNAL GREEN</desc>
+  <cmt>BETHNAL GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5122102" lon="-0.1878435">
+  <name>BYSWTR</name>
+  <desc>BAYSWATER</desc>
+  <cmt>BAYSWATER</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5392445" lon="-0.1425856">
+  <name>CAMDEN</name>
+  <desc>CAMDEN TOWN</desc>
+  <cmt>CAMDEN TOWN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5144517" lon="0.0080561">
+  <name>CANGTN</name>
+  <desc>CANNING TOWN</desc>
+  <cmt>CANNING TOWN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6077735" lon="-0.2946506">
+  <name>CANSPK</name>
+  <desc>CANONS PARK</desc>
+  <cmt>CANONS PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5033853" lon="-0.0180795">
+  <name>CANWRF</name>
+  <desc>CANARY WHARF</desc>
+  <cmt>CANARY WHARF</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4982215" lon="-0.0501441">
+  <name>CANWTR</name>
+  <desc>CANADA WATER</desc>
+  <cmt>CANADA WATER</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6681638" lon="-0.5611526">
+  <name>CHALAT</name>
+  <desc><![CDATA[CHALFONT & LATIMER]]></desc>
+  <cmt><![CDATA[CHALFONT & LATIMER]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6177108" lon="0.0755215">
+  <name>CHIGWL</name>
+  <desc>CHIGWELL</desc>
+  <cmt>CHIGWELL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.544161" lon="-0.153822">
+  <name>CHLKFM</name>
+  <desc>CHALK FARM</desc>
+  <cmt>CHALK FARM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5184636" lon="-0.1111153">
+  <name>CHNCLN</name>
+  <desc>CHANCERY LANE</desc>
+  <cmt>CHANCERY LANE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6542618" lon="-0.5184555">
+  <name>CHRLWD</name>
+  <desc>CHORLEYWOOD</desc>
+  <cmt>CHORLEYWOOD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.508133" lon="-0.1246851">
+  <name>CHRNGX</name>
+  <desc>CHARING CROSS</desc>
+  <cmt>CHARING CROSS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.7052347" lon="-0.6109329">
+  <name>CHSHAM</name>
+  <desc>CHESHAM</desc>
+  <cmt>CHESHAM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4945955" lon="-0.2677044">
+  <name>CHSWPK</name>
+  <desc>CHISWICK PARK</desc>
+  <cmt>CHISWICK PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4649503" lon="-0.1297675">
+  <name>CLAPMN</name>
+  <desc>CLAPHAM NORTH</desc>
+  <cmt>CLAPHAM NORTH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4527209" lon="-0.1479421">
+  <name>CLAPMS</name>
+  <desc>CLAPHAM SOUTH</desc>
+  <cmt>CLAPHAM SOUTH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5481715" lon="-0.1187122">
+  <name>CLDNRD</name>
+  <desc>CALEDONIAN ROAD</desc>
+  <cmt>CALEDONIAN ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.461778" lon="-0.1383764">
+  <name>CLPCOM</name>
+  <desc>CLAPHAM COMMON</desc>
+  <cmt>CLAPHAM COMMON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5114128" lon="-0.0905243">
+  <name>CNONST</name>
+  <desc>CANNON STREET</desc>
+  <cmt>CANNON STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6515382" lon="-0.149115">
+  <name>COKFST</name>
+  <desc>COCKFOSTERS</desc>
+  <cmt>COCKFOSTERS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.41808" lon="-0.1777188">
+  <name>COLLWD</name>
+  <desc>COLLIERS WOOD</desc>
+  <cmt>COLLIERS WOOD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5955526" lon="-0.2500332">
+  <name>COLNDL</name>
+  <desc>COLINDALE</desc>
+  <cmt>COLINDALE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5129194" lon="-0.1242723">
+  <name>COVGDN</name>
+  <desc>COVENT GARDEN</desc>
+  <cmt>COVENT GARDEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.647318" lon="-0.4412079">
+  <name>CROXLY</name>
+  <desc>CROXLEY</desc>
+  <cmt>CROXLEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5442642" lon="0.1656924">
+  <name>DAGNME</name>
+  <desc>DAGENHAM EAST</desc>
+  <cmt>DAGENHAM EAST</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6453322" lon="0.0838942">
+  <name>DEBDEN</name>
+  <desc>DEBDEN</desc>
+  <cmt>DEBDEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5417394" lon="0.1469831">
+  <name>DGNHWY</name>
+  <desc>DAGENHAM HEATHWAY</desc>
+  <cmt>DAGENHAM HEATHWAY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.552012" lon="-0.2386656">
+  <name>DOLSHL</name>
+  <desc>DOLLIS HILL</desc>
+  <cmt>DOLLIS HILL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5167479" lon="-0.2473773">
+  <name>EACTON</name>
+  <desc>EAST ACTON</desc>
+  <cmt>EAST ACTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5151822" lon="-0.3017151">
+  <name>EALBWY</name>
+  <desc>EALING BROADWAY</desc>
+  <cmt>EALING BROADWAY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5101285" lon="-0.2881119">
+  <name>EALCOM</name>
+  <desc>EALING COMMON</desc>
+  <cmt>EALING COMMON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4919854" lon="-0.1936444">
+  <name>EARLS1</name>
+  <desc><![CDATA[EARL'S COURT - EARL'S CT RD]]></desc>
+  <cmt><![CDATA[EARL'S COURT - EARL'S CT RD]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4906821" lon="-0.1954389">
+  <name>EARLS2</name>
+  <desc><![CDATA[EARL'S COURT - WARWICK RD]]></desc>
+  <cmt><![CDATA[EARL'S COURT - WARWICK RD]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5393762" lon="0.0519105">
+  <name>EASTHM</name>
+  <desc>EAST HAM</desc>
+  <cmt>EAST HAM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6136923" lon="-0.2750885">
+  <name>EDGWAR</name>
+  <desc>EDGWARE</desc>
+  <cmt>EDGWARE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5873554" lon="-0.164919">
+  <name>EFNCHL</name>
+  <desc>EAST FINCHLEY</desc>
+  <cmt>EAST FINCHLEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5202073" lon="-0.1700558">
+  <name>EGWRD1</name>
+  <desc>EDGWARE ROAD</desc>
+  <cmt>EDGWARE ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5198662" lon="-0.167792">
+  <name>EGWRD2</name>
+  <desc>EDGWARE ROAD</desc>
+  <cmt>EDGWARE ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4959744" lon="-0.1006205">
+  <name>ELCST1</name>
+  <desc><![CDATA[ELEPHANT & CASTLE]]></desc>
+  <cmt><![CDATA[ELEPHANT & CASTLE]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4943044" lon="-0.1002289">
+  <name>ELCST2</name>
+  <desc><![CDATA[ELEPHANT & CASTLE]]></desc>
+  <cmt><![CDATA[ELEPHANT & CASTLE]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5496029" lon="0.1977654">
+  <name>ELMPRK</name>
+  <desc>ELM PARK</desc>
+  <cmt>ELM PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5074299" lon="-0.1223362">
+  <name>EMBKMT</name>
+  <desc>EMBANKMENT</desc>
+  <cmt>EMBANKMENT</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6938423" lon="0.1143816">
+  <name>EPPING</name>
+  <desc>EPPING</desc>
+  <cmt>EPPING</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4586838" lon="-0.2111251">
+  <name>EPUTNY</name>
+  <desc>EAST PUTNEY</desc>
+  <cmt>EAST PUTNEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5765734" lon="-0.3969573">
+  <name>ESTCTE</name>
+  <desc>EASTCOTE</desc>
+  <cmt>EASTCOTE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5260609" lon="-0.1357555">
+  <name>ESTNSQ</name>
+  <desc>EUSTON SQUARE</desc>
+  <cmt>EUSTON SQUARE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5281221" lon="-0.1336096">
+  <name>EUSTON</name>
+  <desc>EUSTON</desc>
+  <cmt>EUSTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5959397" lon="0.0912055">
+  <name>FARLOP</name>
+  <desc>FAIRLOP</desc>
+  <cmt>FAIRLOP</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6011385" lon="-0.1931709">
+  <name>FCHCTL</name>
+  <desc>FINCHLEY CENTRAL</desc>
+  <cmt>FINCHLEY CENTRAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4804326" lon="-0.1949938">
+  <name>FLMBWY</name>
+  <desc>FULHAM BROADWAY</desc>
+  <cmt>FULHAM BROADWAY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5642335" lon="-0.1064923">
+  <name>FNCHPK</name>
+  <desc>FINSBURY PARK</desc>
+  <cmt>FINSBURY PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5471535" lon="-0.1801669">
+  <name>FNCHRD</name>
+  <desc>FINCHLEY ROAD</desc>
+  <cmt>FINCHLEY ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5204021" lon="-0.1052981">
+  <name>FRNGDN</name>
+  <desc>FARRINGDON</desc>
+  <cmt>FARRINGDON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.501752" lon="-0.2266859">
+  <name>GDHKRD</name>
+  <desc>GOLDHAWK ROAD</desc>
+  <cmt>GOLDHAWK ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5423547" lon="-0.3455814">
+  <name>GENFRD</name>
+  <desc>GREENFORD</desc>
+  <cmt>GREENFORD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5723846" lon="-0.1940084">
+  <name>GLDGRN</name>
+  <desc>GOLDERS GREEN</desc>
+  <cmt>GOLDERS GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4945088" lon="-0.1829416">
+  <name>GLSTRD</name>
+  <desc>GLOUCESTER ROAD</desc>
+  <cmt>GLOUCESTER ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4914981" lon="-0.2753702">
+  <name>GNRSBY</name>
+  <desc>GUNNERSBURY</desc>
+  <cmt>GUNNERSBURY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5765347" lon="0.0662409">
+  <name>GNTSHL</name>
+  <desc>GANTS HILL</desc>
+  <cmt>GANTS HILL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5205597" lon="-0.1347693">
+  <name>GOODGE</name>
+  <desc>GOODGE STREET</desc>
+  <cmt>GOODGE STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5238622" lon="-0.1439757">
+  <name>GPRTST</name>
+  <desc>GREAT PORTLAND STREET</desc>
+  <cmt>GREAT PORTLAND STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6132305" lon="0.0923469">
+  <name>GRNGHL</name>
+  <desc>GRANGE HILL</desc>
+  <cmt>GRANGE HILL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5066932" lon="-0.1427137">
+  <name>GRNPRK</name>
+  <desc>GREEN PARK</desc>
+  <cmt>GREEN PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.57934" lon="-0.3366466">
+  <name>HARHIL</name>
+  <desc><![CDATA[HARROW-ON-THE-HILL]]></desc>
+  <cmt><![CDATA[HARROW-ON-THE-HILL]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.59251" lon="-0.3351115">
+  <name>HARWLD</name>
+  <desc><![CDATA[HARROW & WEALDSTONE]]></desc>
+  <cmt><![CDATA[HARROW & WEALDSTONE]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4670175" lon="-0.4233607">
+  <name>HATTNX</name>
+  <desc>HATTON CROSS</desc>
+  <cmt>HATTON CROSS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.650466" lon="-0.1940284">
+  <name>HBARNT</name>
+  <desc>HIGH BARNET</desc>
+  <cmt>HIGH BARNET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5460193" lon="-0.1040034">
+  <name>HBYISL</name>
+  <desc><![CDATA[HIGHBURY & ISLINGTON]]></desc>
+  <cmt><![CDATA[HIGHBURY & ISLINGTON]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5027144" lon="-0.1527023">
+  <name>HDPKCN</name>
+  <desc>HYDE PARK CORNER</desc>
+  <cmt>HYDE PARK CORNER</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5777289" lon="-0.1457508">
+  <name>HIGATE</name>
+  <desc>HIGHGATE</desc>
+  <cmt>HIGHGATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.507535" lon="-0.2060419">
+  <name>HLNDPK</name>
+  <desc>HOLLAND PARK</desc>
+  <cmt>HOLLAND PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5538144" lon="-0.4498738">
+  <name>HLNGDN</name>
+  <desc>HILLINGDON</desc>
+  <cmt>HILLINGDON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5527216" lon="-0.1131008">
+  <name>HLWYRD</name>
+  <desc>HOLLOWAY ROAD</desc>
+  <cmt>HOLLOWAY ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5568212" lon="-0.1778911">
+  <name>HMPSTD</name>
+  <desc>HAMPSTEAD</desc>
+  <cmt>HAMPSTEAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6030325" lon="0.0933654">
+  <name>HNAULT</name>
+  <desc>HAINAULT</desc>
+  <cmt>HAINAULT</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5830352" lon="-0.2260774">
+  <name>HNDNCT</name>
+  <desc>HENDON CENTRAL</desc>
+  <cmt>HENDON CENTRAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5301748" lon="-0.2931843">
+  <name>HNGRLN</name>
+  <desc>HANGER LANE</desc>
+  <cmt>HANGER LANE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4713374" lon="-0.3664676">
+  <name>HNSLWC</name>
+  <desc>HOUNSLOW CENTRAL</desc>
+  <cmt>HOUNSLOW CENTRAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4733187" lon="-0.3563895">
+  <name>HNSLWE</name>
+  <desc>HOUNSLOW EAST</desc>
+  <cmt>HOUNSLOW EAST</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4734348" lon="-0.3854572">
+  <name>HNSLWW</name>
+  <desc>HOUNSLOW WEST</desc>
+  <cmt>HOUNSLOW WEST</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5173722" lon="-0.1198662">
+  <name>HOLBRN</name>
+  <desc>HOLBORN</desc>
+  <cmt>HOLBORN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5362678" lon="-0.2574419">
+  <name>HRLSDN</name>
+  <desc>HARLESDEN</desc>
+  <cmt>HARLESDEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5539535" lon="0.218416">
+  <name>HRNCRH</name>
+  <desc>HORNCHURCH</desc>
+  <cmt>HORNCHURCH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.493643" lon="-0.2250559">
+  <name>HSMTH1</name>
+  <desc>HAMMERSMITH</desc>
+  <cmt>HAMMERSMITH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4928077" lon="-0.2239359">
+  <name>HSMTH2</name>
+  <desc>HAMMERSMITH</desc>
+  <cmt>HAMMERSMITH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5008707" lon="-0.192515">
+  <name>HSTKEN</name>
+  <desc>HIGH STREET KENSINGTON</desc>
+  <cmt>HIGH STREET KENSINGTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4712996" lon="-0.4525138">
+  <name>HTH123</name>
+  <desc>HEATHROW TERMINALS 1,2,3</desc>
+  <cmt>HEATHROW TERMINALS 1,2,3</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.459749" lon="-0.44742">
+  <name>HTHRW4</name>
+  <desc>HEATHROW TERMINAL 4</desc>
+  <cmt>HEATHROW TERMINAL 4</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.56193" lon="-0.4420669">
+  <name>ICKNHM</name>
+  <desc>ICKENHAM</desc>
+  <cmt>ICKENHAM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.488398" lon="-0.1053432">
+  <name>KENGTN</name>
+  <desc>KENNINGTON</desc>
+  <cmt>KENNINGTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5815834" lon="-0.3161414">
+  <name>KENTON</name>
+  <desc>KENTON</desc>
+  <cmt>KENTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4770525" lon="-0.2849445">
+  <name>KEWGDN</name>
+  <desc>KEW GARDENS</desc>
+  <cmt>KEW GARDENS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5470277" lon="-0.2046907">
+  <name>KILBRN</name>
+  <desc>KILBURN</desc>
+  <cmt>KILBURN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5308701" lon="-0.1237941">
+  <name>KINGSX</name>
+  <desc><![CDATA[KING'S CROSS ST. PANCRAS]]></desc>
+  <cmt><![CDATA[KING'S CROSS ST. PANCRAS]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5351893" lon="-0.1938665">
+  <name>KLBNPK</name>
+  <desc>KILBURN PARK</desc>
+  <cmt>KILBURN PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5846537" lon="-0.2785995">
+  <name>KNGSBY</name>
+  <desc>KINGSBURY</desc>
+  <cmt>KINGSBURY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.498351" lon="-0.2105808">
+  <name>KNSGTN</name>
+  <desc><![CDATA[KENSINGTON (OLYMPIA)]]></desc>
+  <cmt><![CDATA[KENSINGTON (OLYMPIA)]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5304487" lon="-0.2249942">
+  <name>KNSLGN</name>
+  <desc>KENSAL GREEN</desc>
+  <cmt>KENSAL GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5506173" lon="-0.1401319">
+  <name>KNTSTN</name>
+  <desc>KENTISH TOWN</desc>
+  <cmt>KENTISH TOWN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5001145" lon="-0.1623744">
+  <name>KTBRG1</name>
+  <desc><![CDATA[KNIGHTSBRIDGE - HARRODS]]></desc>
+  <cmt><![CDATA[KNIGHTSBRIDGE - HARRODS]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5015281" lon="-0.1607615">
+  <name>KTBRG2</name>
+  <desc><![CDATA[KNIGHTSBRIDGE - SLOANE ST]]></desc>
+  <cmt><![CDATA[KNIGHTSBRIDGE - SLOANE ST]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5139277" lon="-0.2171765">
+  <name>LATMRD</name>
+  <desc>LATIMER ROAD</desc>
+  <cmt>LATIMER ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5120177" lon="-0.1754282">
+  <name>LCSRGT</name>
+  <desc>LANCASTER GATE</desc>
+  <cmt>LANCASTER GATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5112895" lon="-0.1280719">
+  <name>LCTRSQ</name>
+  <desc>LEICESTER SQUARE</desc>
+  <cmt>LEICESTER SQUARE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5172735" lon="-0.2107184">
+  <name>LDBKGV</name>
+  <desc>LADBROKE GROVE</desc>
+  <cmt>LADBROKE GROVE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5565483" lon="-0.0052089">
+  <name>LEYTON</name>
+  <desc>LEYTON</desc>
+  <cmt>LEYTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6413654" lon="0.0553842">
+  <name>LGHTON</name>
+  <desc>LOUGHTON</desc>
+  <cmt>LOUGHTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4991277" lon="-0.111569">
+  <name>LMBTHN</name>
+  <desc>LAMBETH NORTH</desc>
+  <cmt>LAMBETH NORTH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5051216" lon="-0.0863347">
+  <name>LNDNBG</name>
+  <desc>LONDON BRIDGE</desc>
+  <cmt>LONDON BRIDGE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5683572" lon="0.0084248">
+  <name>LNTSTN</name>
+  <desc>LEYTONSTONE</desc>
+  <cmt>LEYTONSTONE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5179655" lon="-0.0820777">
+  <name>LVPLST</name>
+  <desc>LIVERPOOL STREET</desc>
+  <cmt>LIVERPOOL STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5712077" lon="-0.0956974">
+  <name>MANRHS</name>
+  <desc>MANOR HOUSE</desc>
+  <cmt>MANOR HOUSE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5299851" lon="-0.1852922">
+  <name>MDAVAL</name>
+  <desc>MAIDA VALE</desc>
+  <cmt>MAIDA VALE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.534301" lon="-0.138764">
+  <name>MGTNCS</name>
+  <desc>MORNINGTON CRESCENT</desc>
+  <cmt>MORNINGTON CRESCENT</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5249698" lon="-0.0331438">
+  <name>MILEND</name>
+  <desc>MILE END</desc>
+  <cmt>MILE END</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6082447" lon="-0.2103347">
+  <name>MILHLE</name>
+  <desc>MILL HILL EAST</desc>
+  <cmt>MILL HILL EAST</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5122068" lon="-0.0940076">
+  <name>MNSNHS</name>
+  <desc>MANSION HOUSE</desc>
+  <cmt>MANSION HOUSE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5108124" lon="-0.0862403">
+  <name>MNUMNT</name>
+  <desc>MONUMENT</desc>
+  <cmt>MONUMENT</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5186031" lon="-0.0886381">
+  <name>MOORGT</name>
+  <desc>MOORGATE</desc>
+  <cmt>MOORGATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6294535" lon="-0.4319953">
+  <name>MOORPK</name>
+  <desc>MOOR PARK</desc>
+  <cmt>MOOR PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4021304" lon="-0.1948003">
+  <name>MORDEN</name>
+  <desc>MORDEN</desc>
+  <cmt>MORDEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5136172" lon="-0.1586604">
+  <name>MRBLCH</name>
+  <desc>MARBLE ARCH</desc>
+  <cmt>MARBLE ARCH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.522527" lon="-0.16313">
+  <name>MRYLBN</name>
+  <desc>MARYLEBONE</desc>
+  <cmt>MARYLEBONE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5237286" lon="-0.2596217">
+  <name>NACTON</name>
+  <desc>NORTH ACTON</desc>
+  <cmt>NORTH ACTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.517573" lon="-0.2886398">
+  <name>NEALNG</name>
+  <desc>NORTH EALING</desc>
+  <cmt>NORTH EALING</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5542994" lon="-0.2503048">
+  <name>NEASDN</name>
+  <desc>NEASDEN</desc>
+  <cmt>NEASDEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.476707" lon="-0.0327164">
+  <name>NEWCRS</name>
+  <desc>NEW CROSS</desc>
+  <cmt>NEW CROSS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4757249" lon="-0.0401172">
+  <name>NEWXGT</name>
+  <desc>NEW CROSS GATE</desc>
+  <cmt>NEW CROSS GATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4994549" lon="-0.3142294">
+  <name>NFELDS</name>
+  <desc>NORTHFIELDS</desc>
+  <cmt>NORTHFIELDS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5005304" lon="0.0038706">
+  <name>NGRWCH</name>
+  <desc>NORTH GREENWICH</desc>
+  <cmt>NORTH GREENWICH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5849473" lon="-0.3625826">
+  <name>NHARRW</name>
+  <desc>NORTH HARROW</desc>
+  <cmt>NORTH HARROW</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6004603" lon="-0.4091116">
+  <name>NHWDHL</name>
+  <desc>NORTHWOOD HILLS</desc>
+  <cmt>NORTHWOOD HILLS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5483158" lon="-0.3686437">
+  <name>NRTHLT</name>
+  <desc>NORTHOLT</desc>
+  <cmt>NORTHOLT</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6111907" lon="-0.4239736">
+  <name>NRWOOD</name>
+  <desc>NORTHWOOD</desc>
+  <cmt>NORTHWOOD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5094071" lon="-0.1967598">
+  <name>NTHLGT</name>
+  <desc>NOTTING HILL GATE</desc>
+  <cmt>NOTTING HILL GATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5757097" lon="0.0899736">
+  <name>NWBYPK</name>
+  <desc>NEWBURY PARK</desc>
+  <cmt>NEWBURY PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5785135" lon="-0.3184053">
+  <name>NWCKPK</name>
+  <desc>NORTHWICK PARK</desc>
+  <cmt>NORTHWICK PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.562129" lon="-0.3033853">
+  <name>NWMBLY</name>
+  <desc>NORTH WEMBLEY</desc>
+  <cmt>NORTH WEMBLEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6473633" lon="-0.1313614">
+  <name>OKWOOD</name>
+  <desc>OAKWOOD</desc>
+  <cmt>OAKWOOD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5263418" lon="-0.0872905">
+  <name>OLDSTR</name>
+  <desc>OLD STREET</desc>
+  <cmt>OLD STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4813167" lon="-0.3521703">
+  <name>OSTRLY</name>
+  <desc>OSTERLEY</desc>
+  <cmt>OSTERLEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4819376" lon="-0.1129274">
+  <name>OVAL</name>
+  <desc>OVAL</desc>
+  <cmt>OVAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5149553" lon="-0.1414408">
+  <name>OXCIRC</name>
+  <desc>OXFORD CIRCUS</desc>
+  <cmt>OXFORD CIRCUS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4752743" lon="-0.2010727">
+  <name>PARSGN</name>
+  <desc>PARSONS GREEN</desc>
+  <cmt>PARSONS GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5160558" lon="-0.1754542">
+  <name>PDGTN1</name>
+  <desc><![CDATA[PADDINGTON - N PRAED ST]]></desc>
+  <cmt><![CDATA[PADDINGTON - N PRAED ST]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5153634" lon="-0.175453">
+  <name>PDGTN2</name>
+  <desc><![CDATA[PADDINGTON - S PRAED ST]]></desc>
+  <cmt><![CDATA[PADDINGTON - S PRAED ST]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5182123" lon="-0.1782363">
+  <name>PDGTN3</name>
+  <desc><![CDATA[PADDINGTON - BSHOPS BR RD]]></desc>
+  <cmt><![CDATA[PADDINGTON - BSHOPS BR RD]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.536632" lon="-0.3231653">
+  <name>PERIVL</name>
+  <desc>PERIVALE</desc>
+  <cmt>PERIVALE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5097422" lon="-0.1342456">
+  <name>PICCRC</name>
+  <desc>PICCADILLY CIRCUS</desc>
+  <cmt>PICCADILLY CIRCUS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.592642" lon="-0.3805397">
+  <name>PINNER</name>
+  <desc>PINNER</desc>
+  <cmt>PINNER</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5270028" lon="-0.2841054">
+  <name>PKRYAL</name>
+  <desc>PARK ROYAL</desc>
+  <cmt>PARK ROYAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5313198" lon="0.0171031">
+  <name>PLASTW</name>
+  <desc>PLAISTOW</desc>
+  <cmt>PLAISTOW</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4893064" lon="-0.1333947">
+  <name>PMLICO</name>
+  <desc>PIMLICO</desc>
+  <cmt>PIMLICO</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5721041" lon="-0.2954957">
+  <name>PRSTRD</name>
+  <desc>PRESTON ROAD</desc>
+  <cmt>PRESTON ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4683161" lon="-0.2088479">
+  <name>PUTBRG</name>
+  <desc>PUTNEY BRIDGE</desc>
+  <cmt>PUTNEY BRIDGE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5942314" lon="-0.2860336">
+  <name>QENSBY</name>
+  <desc>QUEENSBURY</desc>
+  <cmt>QUEENSBURY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5340689" lon="-0.2046528">
+  <name>QENSPK</name>
+  <desc>QUEENS PARK</desc>
+  <cmt>QUEENS PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5106777" lon="-0.1876017">
+  <name>QENSWY</name>
+  <desc>QUEENSWAY</desc>
+  <cmt>QUEENSWAY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4632962" lon="-0.3011667">
+  <name>RCHMND</name>
+  <desc>RICHMOND</desc>
+  <cmt>RICHMOND</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5763406" lon="0.0455072">
+  <name>REDBRG</name>
+  <desc>REDBRIDGE</desc>
+  <cmt>REDBRIDGE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5234001" lon="-0.1466036">
+  <name>RGTSPK</name>
+  <desc>REGENTS PARK</desc>
+  <cmt>REGENTS PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6404117" lon="-0.4733549">
+  <name>RKMWTH</name>
+  <desc>RICKMANSWORTH</desc>
+  <cmt>RICKMANSWORTH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6171323" lon="0.0439172">
+  <name>RODVAL</name>
+  <desc>RODING VALLEY</desc>
+  <cmt>RODING VALLEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5190734" lon="-0.1879602">
+  <name>ROYLOK</name>
+  <desc>ROYAL OAK</desc>
+  <cmt>ROYAL OAK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5606852" lon="-0.4102695">
+  <name>RSPGDN</name>
+  <desc>RUISLIP GARDENS</desc>
+  <cmt>RUISLIP GARDENS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5732509" lon="-0.4125152">
+  <name>RSPMNR</name>
+  <desc>RUISLIP MANOR</desc>
+  <cmt>RUISLIP MANOR</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5010463" lon="-0.052372">
+  <name>RTHRTH</name>
+  <desc>ROTHERHITHE</desc>
+  <cmt>ROTHERHITHE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5714444" lon="-0.4212507">
+  <name>RUISLP</name>
+  <desc>RUISLIP</desc>
+  <cmt>RUISLIP</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5229487" lon="-0.1244224">
+  <name>RUSLSQ</name>
+  <desc>RUSSELL SQUARE</desc>
+  <cmt>RUSSELL SQUARE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4941913" lon="-0.2357672">
+  <name>RVCTPK</name>
+  <desc>RAVENSCOURT PARK</desc>
+  <cmt>RAVENSCOURT PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5752584" lon="-0.37133">
+  <name>RYNSLN</name>
+  <desc>RAYNERS LANE</desc>
+  <cmt>RAYNERS LANE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5438432" lon="-0.2759582">
+  <name>SBRGPK</name>
+  <desc>STONEBRIDGE PARK</desc>
+  <cmt>STONEBRIDGE PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5569563" lon="-0.3365259">
+  <name>SDBYHL</name>
+  <desc>SUDBURY HILL</desc>
+  <cmt>SUDBURY HILL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5507315" lon="-0.3155791">
+  <name>SDBYTN</name>
+  <desc>SUDBURY TOWN</desc>
+  <cmt>SUDBURY TOWN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5010792" lon="-0.307124">
+  <name>SEALNG</name>
+  <desc>SOUTH EALING</desc>
+  <cmt>SOUTH EALING</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.445414" lon="-0.2066358">
+  <name>SFELDS</name>
+  <desc>SOUTHFIELDS</desc>
+  <cmt>SOUTHFIELDS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6323107" lon="-0.1280207">
+  <name>SGATE</name>
+  <desc>SOUTHGATE</desc>
+  <cmt>SOUTHGATE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5117417" lon="-0.0568878">
+  <name>SHADWL</name>
+  <desc>SHADWELL</desc>
+  <cmt>SHADWELL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5646393" lon="-0.352073">
+  <name>SHARRW</name>
+  <desc>SOUTH HARROW</desc>
+  <cmt>SOUTH HARROW</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.504669" lon="-0.2186043">
+  <name>SHPBS1</name>
+  <desc><![CDATA[SHEPHERD'S BUSH]]></desc>
+  <cmt><![CDATA[SHEPHERD'S BUSH]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5227526" lon="-0.070748">
+  <name>SHRDCH</name>
+  <desc>SHOREDITCH</desc>
+  <cmt>SHOREDITCH</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.499452" lon="-0.1335133">
+  <name>SJMPK1</name>
+  <desc><![CDATA[ST. JAMES'S PARK - BROADWAY]]></desc>
+  <cmt><![CDATA[ST. JAMES'S PARK - BROADWAY]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4992914" lon="-0.135292">
+  <name>SJMPK2</name>
+  <desc><![CDATA[ST. JAMES'S PARK - PALMER ST]]></desc>
+  <cmt><![CDATA[ST. JAMES'S PARK - PALMER ST]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5348358" lon="-0.173939">
+  <name>SJONWD</name>
+  <desc><![CDATA[ST. JOHN'S WOOD]]></desc>
+  <cmt><![CDATA[ST. JOHN'S WOOD]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5701275" lon="-0.3080369">
+  <name>SKENTN</name>
+  <desc>SOUTH KENTON</desc>
+  <cmt>SOUTH KENTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4941512" lon="-0.1738079">
+  <name>SKNGTN</name>
+  <desc>SOUTH KENSINGTON</desc>
+  <cmt>SOUTH KENSINGTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4924677" lon="-0.1564443">
+  <name>SLONSQ</name>
+  <desc>SLOANE SQUARE</desc>
+  <cmt>SLOANE SQUARE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5058138" lon="-0.2264994">
+  <name>SNPBS2</name>
+  <desc><![CDATA[SHEPHERD'S BUSH]]></desc>
+  <cmt><![CDATA[SHEPHERD'S BUSH]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5808923" lon="0.0215639">
+  <name>SNRSBK</name>
+  <desc>SNARESBROOK</desc>
+  <cmt>SNARESBROOK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5146976" lon="-0.0973195">
+  <name>SPAULS</name>
+  <desc><![CDATA[ST. PAUL'S]]></desc>
+  <cmt><![CDATA[ST. PAUL'S]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5569236" lon="-0.3988169">
+  <name>SRUSLP</name>
+  <desc>SOUTH RUISLIP</desc>
+  <cmt>SOUTH RUISLIP</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4933422" lon="-0.0476729">
+  <name>SRYOKS</name>
+  <desc>SURREY QUAYS</desc>
+  <cmt>SURREY QUAYS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4950354" lon="-0.2458766">
+  <name>STAMBK</name>
+  <desc>STAMFORD BROOK</desc>
+  <cmt>STAMFORD BROOK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6193916" lon="-0.3027233">
+  <name>STANMR</name>
+  <desc>STANMORE</desc>
+  <cmt>STANMORE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4723075" lon="-0.1230877">
+  <name>STOKWL</name>
+  <desc>STOCKWELL</desc>
+  <cmt>STOCKWELL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.522098" lon="-0.0469475">
+  <name>STPGRN</name>
+  <desc>STEPNEY GREEN</desc>
+  <cmt>STEPNEY GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5415921" lon="-0.0040748">
+  <name>STRTFD</name>
+  <desc>STRATFORD</desc>
+  <cmt>STRATFORD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5040058" lon="-0.1051281">
+  <name>SWARK</name>
+  <desc>SOUTHWARK</desc>
+  <cmt>SOUTHWARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5917437" lon="0.0274595">
+  <name>SWDFRD</name>
+  <desc>SOUTH WOODFORD</desc>
+  <cmt>SOUTH WOODFORD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4152595" lon="-0.1918672">
+  <name>SWMBDN</name>
+  <desc>SOUTH WIMBLEDON</desc>
+  <cmt>SOUTH WIMBLEDON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5432955" lon="-0.1737878">
+  <name>SWSCOT</name>
+  <desc>SWISS COTTAGE</desc>
+  <cmt>SWISS COTTAGE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5111639" lon="-0.1140545">
+  <name>TEMPLE</name>
+  <desc>TEMPLE</desc>
+  <cmt>TEMPLE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5566707" lon="-0.1373893">
+  <name>TFNLPK</name>
+  <desc>TUFNELL PARK</desc>
+  <cmt>TUFNELL PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6716767" lon="0.1032969">
+  <name>THDNBS</name>
+  <desc>THEYDON BOIS</desc>
+  <cmt>THEYDON BOIS</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.436099" lon="-0.1597219">
+  <name>TOOTBC</name>
+  <desc>TOOTING BEC</desc>
+  <cmt>TOOTING BEC</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4275059" lon="-0.1680078">
+  <name>TOOTBY</name>
+  <desc>TOOTING BROADWAY</desc>
+  <cmt>TOOTING BROADWAY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5166049" lon="-0.1309384">
+  <name>TOTMCR</name>
+  <desc>TOTTENHAM COURT ROAD</desc>
+  <cmt>TOTTENHAM COURT ROAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5883008" lon="-0.0593991">
+  <name>TOTMHL</name>
+  <desc>TOTTENHAM HALE</desc>
+  <cmt>TOTTENHAM HALE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6302994" lon="-0.179109">
+  <name>TOTWTN</name>
+  <desc><![CDATA[TOTTERIDGE & WHETSTONE]]></desc>
+  <cmt><![CDATA[TOTTERIDGE & WHETSTONE]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5098184" lon="-0.0765977">
+  <name>TOWRHL</name>
+  <desc>TOWER HILL</desc>
+  <cmt>TOWER HILL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5903594" lon="-0.102765">
+  <name>TPIKLN</name>
+  <desc>TURNPIKE LANE</desc>
+  <cmt>TURNPIKE LANE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4951668" lon="-0.2546883">
+  <name>TRNMGN</name>
+  <desc>TURNHAM GREEN</desc>
+  <cmt>TURNHAM GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.558119" lon="0.2344306">
+  <name>UPMNBR</name>
+  <desc>UPMINSTER BRIDGE</desc>
+  <cmt>UPMINSTER BRIDGE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5590432" lon="0.2510096">
+  <name>UPMNST</name>
+  <desc>UPMINSTER</desc>
+  <cmt>UPMINSTER</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5385454" lon="0.101379">
+  <name>UPNEY</name>
+  <desc>UPNEY</desc>
+  <cmt>UPNEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5352306" lon="0.0343487">
+  <name>UPTNPK</name>
+  <desc>UPTON PARK</desc>
+  <cmt>UPTON PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5467193" lon="-0.4773298">
+  <name>UXBRDG</name>
+  <desc>UXBRIDGE</desc>
+  <cmt>UXBRIDGE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4860386" lon="-0.1252893">
+  <name>VAUXHL</name>
+  <desc>VAUXHALL</desc>
+  <cmt>VAUXHALL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4965618" lon="-0.1446239">
+  <name>VCTRIA</name>
+  <desc>VICTORIA</desc>
+  <cmt>VICTORIA</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5181057" lon="-0.2807933">
+  <name>WACTON</name>
+  <desc>WEST ACTON</desc>
+  <cmt>WEST ACTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5754158" lon="0.0288544">
+  <name>WANSTD</name>
+  <desc>WANSTEAD</desc>
+  <cmt>WANSTEAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5043045" lon="-0.0557921">
+  <name>WAPPNG</name>
+  <desc>WAPPING</desc>
+  <cmt>WAPPING</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5247239" lon="-0.1382031">
+  <name>WARNST</name>
+  <desc>WARREN STREET</desc>
+  <cmt>WARREN STREET</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6573965" lon="-0.4175421">
+  <name>WATFRD</name>
+  <desc>WATFORD</desc>
+  <cmt>WATFORD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4343649" lon="-0.1991986">
+  <name>WBDNPK</name>
+  <desc>WIMBLEDON PARK</desc>
+  <cmt>WIMBLEDON PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5520467" lon="-0.2964331">
+  <name>WBLYCT</name>
+  <desc>WEMBLEY CENTRAL</desc>
+  <cmt>WEMBLEY CENTRAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5635533" lon="-0.279541">
+  <name>WBLYPK</name>
+  <desc>WEMBLEY PARK</desc>
+  <cmt>WEMBLEY PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.520974" lon="-0.2010165">
+  <name>WBRNPK</name>
+  <desc>WESTBOURNE PARK</desc>
+  <cmt>WESTBOURNE PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4871543" lon="-0.1952613">
+  <name>WBRPTN</name>
+  <desc>WEST BROMPTON</desc>
+  <cmt>WEST BROMPTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6179531" lon="-0.1855114">
+  <name>WDSDPK</name>
+  <desc>WOODSIDE PARK</desc>
+  <cmt>WOODSIDE PARK</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6095083" lon="-0.1883613">
+  <name>WFINCH</name>
+  <desc>WEST FINCHLEY</desc>
+  <cmt>WEST FINCHLEY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5795478" lon="-0.3532944">
+  <name>WHARRW</name>
+  <desc>WEST HARROW</desc>
+  <cmt>WEST HARROW</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5468829" lon="-0.1905765">
+  <name>WHPSTD</name>
+  <desc>WEST HAMPSTEAD</desc>
+  <cmt>WEST HAMPSTEAD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5194826" lon="-0.0611277">
+  <name>WHTCPL</name>
+  <desc>WHITECHAPEL</desc>
+  <cmt>WHITECHAPEL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5120427" lon="-0.2239228">
+  <name>WHTCTY</name>
+  <desc>WHITE CITY</desc>
+  <cmt>WHITE CITY</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4907609" lon="-0.2064413">
+  <name>WKNSTN</name>
+  <desc>WEST KENSINGTON</desc>
+  <cmt>WEST KENSINGTON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.4214438" lon="-0.2063229">
+  <name>WMBLDN</name>
+  <desc>WIMBLEDON</desc>
+  <cmt>WIMBLEDON</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5014175" lon="-0.1248167">
+  <name>WMNSTR</name>
+  <desc>WESTMINSTER</desc>
+  <cmt>WESTMINSTER</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.6070767" lon="0.0341791">
+  <name>WOODFD</name>
+  <desc>WOODFORD</desc>
+  <cmt>WOODFORD</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5975573" lon="-0.1096841">
+  <name>WOODGN</name>
+  <desc>WOOD GREEN</desc>
+  <cmt>WOOD GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5033546" lon="-0.1127055">
+  <name>WRLOO1</name>
+  <desc><![CDATA[WATERLOO - EAST]]></desc>
+  <cmt><![CDATA[WATERLOO - EAST]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5035953" lon="-0.1142518">
+  <name>WRLOO2</name>
+  <desc><![CDATA[WATERLOO - WEST]]></desc>
+  <cmt><![CDATA[WATERLOO - WEST]]></cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5697025" lon="-0.4375733">
+  <name>WRUSLP</name>
+  <desc>WEST RUISLIP</desc>
+  <cmt>WEST RUISLIP</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5492723" lon="-0.2215787">
+  <name>WSDNGN</name>
+  <desc>WILLESDEN GREEN</desc>
+  <cmt>WILLESDEN GREEN</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5325985" lon="-0.2435532">
+  <name>WSDNJC</name>
+  <desc>WILLESDEN JUNCTION</desc>
+  <cmt>WILLESDEN JUNCTION</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5287291" lon="0.0056133">
+  <name>WSTHAM</name>
+  <desc>WEST HAM</desc>
+  <cmt>WEST HAM</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5830559" lon="-0.0193779">
+  <name>WSTWCT</name>
+  <desc>WALTHAMSTOW CENTRAL</desc>
+  <cmt>WALTHAMSTOW CENTRAL</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+ <wpt lat="51.5235461" lon="-0.1835301">
+  <name>WWCKAV</name>
+  <desc>WARWICK AVENUE</desc>
+  <cmt>WARWICK AVENUE</cmt>
+  <sym>filled circle</sym>
+  <time>2000-01-01T00:00:00Z</time>
+ </wpt>
+
+</gpx>
