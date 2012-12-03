@@ -126,4 +126,4 @@ for time, length in time_length:
     mins = (60 * time.hour + time.minute)
     time_length2.append((mins, length))
 time, length = zip(*time_length2) # unzip time and length
-#pylab.plot(time, length, 'x')
+#pylab.plot(time, length, 'rx')
